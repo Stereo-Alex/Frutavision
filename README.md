@@ -1,4 +1,4 @@
-# Frutavision
+# Frutavision (classifying fruit)
 
 *Alex Jurado*
 
